@@ -8,5 +8,8 @@
         "serve": "nodemon server.js"
     },
     "author": "yl",
-    "license": "ISC"
+    "license": "ISC",
+    "devDependencies": {
+        "eslint": "^7.24.0"
+    }
 }
